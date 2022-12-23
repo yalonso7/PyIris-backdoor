@@ -8,3 +8,4 @@ pyxhook==1.0.0
 python-crontab==2.3.5
 PyInstaller==3.6
 cryptography==2.6.1
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
